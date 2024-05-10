@@ -1,0 +1,6 @@
+-lbgi
+-lgdi32
+-lcomdlg32
+-luuid
+-loleut32
+-lole32
